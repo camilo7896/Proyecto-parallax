@@ -1,0 +1,84 @@
+* {
+    margin: 0%;
+}
+
+
+/*Bloques*/
+
+.bloque {
+    text-align: center;
+    color: white;
+    font-size: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.6;
+}
+
+
+/*bloque 2*/
+
+.caja-gris {
+    background-color: rgb(43, 41, 41);
+    color: white;
+}
+
+.titulo {
+    background-color: #585858;
+    padding: 0.2rem 1.5rem 0.2rem 1.5rem;
+}
+
+h2 {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/*ancho de bloques*/
+
+.parallax {
+    height: 600px;
+}
+
+
+/*Imagen bloque 1*/
+
+.img1 {
+    background-image: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+/*div-Parrafo*/
+
+.parrafo {
+    margin: 1rem 0 1rem 0;
+    padding: 1rem 0 1rem 0;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+
+/*Imagen bloque 2*/
+
+.img2 {
+    background-image: url(https://www.iagua.es/sites/default/files/styles/thumbnail-830x455/public/yellowstone-parque-nacional_pixabay.jpg?itok=3FXy0hP2);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+/*Imagen bloque 3*/
+
+.img3 {
+    background-image: url(https://blog.naturlider.com/wp-content/uploads/2020/03/AdobeStock_309195144-post-dia-mundial-naturaleza.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
